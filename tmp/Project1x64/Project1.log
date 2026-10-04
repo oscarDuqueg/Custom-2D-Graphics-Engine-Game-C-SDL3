@@ -1,0 +1,28 @@
+﻿  Game.cpp
+D:\DOCUMENTOS ------\Z_Enti\2o\sofuar\Menace\AA3_menace_OscarDuque-CarlosBlasco\source\Object.h(38,21): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "source/Game.cpp")
+  
+D:\DOCUMENTOS ------\Z_Enti\2o\sofuar\Menace\AA3_menace_OscarDuque-CarlosBlasco\source\TestObject.h(14,70): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "source/Game.cpp")
+  
+D:\DOCUMENTOS ------\Z_Enti\2o\sofuar\Menace\AA3_menace_OscarDuque-CarlosBlasco\source\TestObject.h(14,43): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "source/Game.cpp")
+  
+D:\DOCUMENTOS ------\Z_Enti\2o\sofuar\Menace\AA3_menace_OscarDuque-CarlosBlasco\source\Scene.h(33,14): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "source/Game.cpp")
+  
+D:\DOCUMENTOS ------\Z_Enti\2o\sofuar\Menace\AA3_menace_OscarDuque-CarlosBlasco\source\Scene.h(42,14): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "source/Game.cpp")
+  
+D:\DOCUMENTOS ------\Z_Enti\2o\sofuar\Menace\AA3_menace_OscarDuque-CarlosBlasco\source\Scene.h(68,12): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "source/Game.cpp")
+  
+D:\DOCUMENTOS ------\Z_Enti\2o\sofuar\Menace\AA3_menace_OscarDuque-CarlosBlasco\source\Scene.h(80,18): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "source/Game.cpp")
+  
+  Project1.vcxproj -> D:\DOCUMENTOS ------\Z_Enti\2o\sofuar\Menace\AA3_menace_OscarDuque-CarlosBlasco\binaries\x64\Project1.exe
+  0 archivo(s) copiado(s)
+  0 archivo(s) copiado(s)
+  0 archivo(s) copiado(s)
+  0 archivo(s) copiado(s)
+  0 archivo(s) copiado(s)

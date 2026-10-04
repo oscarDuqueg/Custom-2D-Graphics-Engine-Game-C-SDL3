@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Engine">
+      <UniqueIdentifier>{380df2de-14ba-4dde-9809-a7c05ac95c31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine">
+      <UniqueIdentifier>{709be8a2-403c-4767-8d96-41585c76c10d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\Colision&amp;Fisicas">
+      <UniqueIdentifier>{c2c88244-1330-453a-832a-1d4129627902}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\Audio&amp;Input">
+      <UniqueIdentifier>{05e85da9-f806-48e1-9a8e-bf67907f34d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\Visual&amp;Time">
+      <UniqueIdentifier>{16462434-9382-4047-a5a1-4d0960919db7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\InGameObjects">
+      <UniqueIdentifier>{26991633-defb-4248-9528-cd47a4afe9cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Scenes">
+      <UniqueIdentifier>{453c83b5-2e3e-4b18-b147-ad4bb00473f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\InGameObjects\Enemies">
+      <UniqueIdentifier>{8402e9a4-b594-4cbc-8383-8cb71661cff1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\InGameObjects\Enemies\level2">
+      <UniqueIdentifier>{8bb987d0-6030-4736-b755-9988f9186265}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\InGameObjects\Enemies\Level1">
+      <UniqueIdentifier>{58701caf-ced7-4348-aa11-a2ab576bee57}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\InGameObjects\Decoracion">
+      <UniqueIdentifier>{344abeaf-2213-44f9-bce8-667988d987fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\InGameObjects\Player">
+      <UniqueIdentifier>{087abfdc-0c0a-4c81-997d-0facef4d5938}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\Score">
+      <UniqueIdentifier>{b74df6b7-a8ef-4a3f-8e13-b8045f38b213}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\InGameObjects\UI">
+      <UniqueIdentifier>{b62cfade-00ef-49ad-ae3f-699861ae6e36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\Guardado">
+      <UniqueIdentifier>{752e0d18-731c-425e-ba7a-c336a048a6a9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="source\Game.h">
+      <Filter>Header Files\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Spawner.h">
+      <Filter>Header Files\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="source\AABB.h">
+      <Filter>Header Files\Engine\Colision&amp;Fisicas</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Transform.h">
+      <Filter>Header Files\Engine\Colision&amp;Fisicas</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Vector2.h">
+      <Filter>Header Files\Engine\Colision&amp;Fisicas</Filter>
+    </ClInclude>
+    <ClInclude Include="source\RigidBody.h">
+      <Filter>Header Files\Engine\Colision&amp;Fisicas</Filter>
+    </ClInclude>
+    <ClInclude Include="source\AtomicWrapper.h">
+      <Filter>Header Files\Engine\Audio&amp;Input</Filter>
+    </ClInclude>
+    <ClInclude Include="source\AudioManager.h">
+      <Filter>Header Files\Engine\Audio&amp;Input</Filter>
+    </ClInclude>
+    <ClInclude Include="source\ImageRenderer.h">
+      <Filter>Header Files\Engine\Visual&amp;Time</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Renderer.h">
+      <Filter>Header Files\Engine\Visual&amp;Time</Filter>
+    </ClInclude>
+    <ClInclude Include="source\RenderManager.h">
+      <Filter>Header Files\Engine\Visual&amp;Time</Filter>
+    </ClInclude>
+    <ClInclude Include="source\ImageObject.h">
+      <Filter>Header Files\Engine\Visual&amp;Time</Filter>
+    </ClInclude>
+    <ClInclude Include="source\TimeManager.h">
+      <Filter>Header Files\Engine\Visual&amp;Time</Filter>
+    </ClInclude>
+    <ClInclude Include="source\TextRenderer.h">
+      <Filter>Header Files\Engine\Visual&amp;Time</Filter>
+    </ClInclude>
+    <ClInclude Include="source\TextObject.h">
+      <Filter>Header Files\InGameObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Wall.h">
+      <Filter>Header Files\InGameObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Object.h">
+      <Filter>Header Files\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Stream.h">
+      <Filter>Header Files\Engine\Audio&amp;Input</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Gameplay.h">
+      <Filter>Header Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="source\MainMenu.h">
+      <Filter>Header Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Fondo.h">
+      <Filter>Header Files\InGameObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="source\WallY.h">
+      <Filter>Header Files\InGameObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Barbaro.h">
+      <Filter>Header Files\InGameObjects\Enemies\Level1</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Bat.h">
+      <Filter>Header Files\InGameObjects\Enemies\Level1</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Bruja.h">
+      <Filter>Header Files\InGameObjects\Enemies\Level1</Filter>
+    </ClInclude>
+    <ClInclude Include="source\EsbirroH.h">
+      <Filter>Header Files\InGameObjects\Enemies\Level1</Filter>
+    </ClInclude>
+    <ClInclude Include="source\EsbirroV.h">
+      <Filter>Header Files\InGameObjects\Enemies\Level1</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Esqueleto.h">
+      <Filter>Header Files\InGameObjects\Enemies\Level1</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Golem.h">
+      <Filter>Header Files\InGameObjects\Enemies\Level1</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Lava.h">
+      <Filter>Header Files\InGameObjects\Enemies\Level1</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Roca.h">
+      <Filter>Header Files\InGameObjects\Enemies\Level1</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Gigante.h">
+      <Filter>Header Files\InGameObjects\Enemies\Level1</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Monta.h">
+      <Filter>Header Files\InGameObjects\Enemies\level2</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Duende.h">
+      <Filter>Header Files\InGameObjects\Enemies\level2</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Globo.h">
+      <Filter>Header Files\InGameObjects\Enemies\level2</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Sanadora.h">
+      <Filter>Header Files\InGameObjects\Enemies\level2</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Rompemuro.h">
+      <Filter>Header Files\InGameObjects\Enemies\level2</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Raiz.h">
+      <Filter>Header Files\InGameObjects\Enemies\level2</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Valquiria.h">
+      <Filter>Header Files\InGameObjects\Enemies\level2</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Pekka.h">
+      <Filter>Header Files\InGameObjects\Enemies\level2</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Electrico.h">
+      <Filter>Header Files\InGameObjects\Enemies\level2</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Level2.h">
+      <Filter>Header Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Helicoptero.h">
+      <Filter>Header Files\InGameObjects\Enemies\level2</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Bomba.h">
+      <Filter>Header Files\InGameObjects\Enemies\level2</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Fondo2.h">
+      <Filter>Header Files\InGameObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Enemy.h">
+      <Filter>Header Files\InGameObjects\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Explosion.h">
+      <Filter>Header Files\InGameObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Decoracion.h">
+      <Filter>Header Files\InGameObjects\Decoracion</Filter>
+    </ClInclude>
+    <ClInclude Include="source\HordeTracker.h">
+      <Filter>Header Files\InGameObjects\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Horde2.h">
+      <Filter>Header Files\InGameObjects\Enemies\level2</Filter>
+    </ClInclude>
+    <ClInclude Include="source\elsDecoratius.h">
+      <Filter>Header Files\InGameObjects\Decoracion</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Horde.h">
+      <Filter>Header Files\InGameObjects\Enemies\Level1</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Yeti.h">
+      <Filter>Header Files\InGameObjects\Enemies\Level1</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Player.h">
+      <Filter>Header Files\InGameObjects\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="source\PlayerBullet.h">
+      <Filter>Header Files\InGameObjects\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="source\PowerUp.h">
+      <Filter>Header Files\InGameObjects\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="source\darkBoll.h">
+      <Filter>Header Files\InGameObjects\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="source\DownTurret.h">
+      <Filter>Header Files\InGameObjects\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="source\UpTurret.h">
+      <Filter>Header Files\InGameObjects\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Score.h">
+      <Filter>Header Files\Engine\Score</Filter>
+    </ClInclude>
+    <ClInclude Include="source\InputManager.h">
+      <Filter>Header Files\Engine\Score</Filter>
+    </ClInclude>
+    <ClInclude Include="source\ScoreManager.h">
+      <Filter>Header Files\Engine\Score</Filter>
+    </ClInclude>
+    <ClInclude Include="source\HighScoreEntryScene.h">
+      <Filter>Header Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="source\HighScoreTableScene.h">
+      <Filter>Header Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Scene.h">
+      <Filter>Header Files\Engine\Score</Filter>
+    </ClInclude>
+    <ClInclude Include="source\SceneManager.h">
+      <Filter>Header Files\Engine\Score</Filter>
+    </ClInclude>
+    <ClInclude Include="source\SplashScreen.h">
+      <Filter>Header Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Button.h">
+      <Filter>Header Files\InGameObjects\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="source\ImageUI.h">
+      <Filter>Header Files\InGameObjects\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="source\LifeBar.h">
+      <Filter>Header Files\InGameObjects\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="source\LaserBar.h">
+      <Filter>Header Files\InGameObjects\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="source\CanonBar.h">
+      <Filter>Header Files\InGameObjects\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="source\GamePersistence.h">
+      <Filter>Header Files\Engine\Guardado</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="source\Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\AABB.cpp">
+      <Filter>Source Files\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="source\RenderManager.cpp">
+      <Filter>Source Files\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="source\RigidBody.cpp">
+      <Filter>Source Files\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Player.cpp">
+      <Filter>Header Files\InGameObjects\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="source\InputManager.cpp">
+      <Filter>Header Files\Engine\Score</Filter>
+    </ClCompile>
+    <ClCompile Include="source\ScoreManager.cpp">
+      <Filter>Header Files\Engine\Score</Filter>
+    </ClCompile>
+    <ClCompile Include="source\GamePersistence.cpp">
+      <Filter>Header Files\Engine\Guardado</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

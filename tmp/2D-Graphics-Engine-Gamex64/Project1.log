@@ -1,0 +1,328 @@
+﻿  AABB.cpp
+  Game.cpp
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Object.h(39,21): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\TimeManager.h(14,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\TimeManager.h(51,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\AudioManager.h(56,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Player.h(48,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Player.h(48,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Scene.h(34,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Scene.h(43,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Scene.h(69,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Scene.h(82,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Fondo.h(17,26): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Fondo.h(22,56): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Fondo.h(22,38): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Horde.h(321,56): warning C4804: '>': unsafe use of type 'bool' in operation
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Gameplay.h(76,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Gameplay.h(76,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Gameplay.h(80,136): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Gameplay.h(80,118): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Gameplay.h(81,135): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Gameplay.h(81,117): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Gameplay.h(82,135): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Gameplay.h(82,117): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Gameplay.h(97,81): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Gameplay.h(98,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Gameplay.h(98,101): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Gameplay.h(99,89): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Gameplay.h(100,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Gameplay.h(100,42): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Gameplay.h(100,100): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Fondo2.h(17,26): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Fondo2.h(22,56): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Fondo2.h(22,38): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Valquiria.h(16,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Horde2.h(346,68): warning C4804: '>': unsafe use of type 'bool' in operation
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Level2.h(70,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Level2.h(70,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Level2.h(74,138): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Level2.h(74,120): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Level2.h(75,137): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Level2.h(75,119): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Level2.h(76,137): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Level2.h(76,119): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Level2.h(91,81): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Level2.h(92,103): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Level2.h(93,89): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Level2.h(94,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Level2.h(94,108): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\ImageUI.h(11,26): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\ImageUI.h(14,56): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\ImageUI.h(14,38): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\SplashScreen.h(18,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\SplashScreen.h(18,125): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\SplashScreen.h(18,107): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'source/Game.cpp')
+  
+D:\Visual Studio Community 2022\App\VC\Tools\MSVC\14.44.35207\include\type_traits(1686,77): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+  (compiling source file 'source/Game.cpp')
+      D:\Visual Studio Community 2022\App\VC\Tools\MSVC\14.44.35207\include\type_traits(1686,77):
+      the template instantiation context (the oldest one first) is
+          D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\AudioManager.h(107,21):
+          see reference to function template instantiation 'std::thread::thread<void(__cdecl AudioManager::* )(std::string,int),AudioManager*,std::string&,unsigned __int64,0>(_Fn &&,AudioManager *&&,std::string &,unsigned __int64 &&)' being compiled
+          with
+          [
+              _Fn=void (__cdecl AudioManager::* )(std::string,int)
+          ]
+          D:\Visual Studio Community 2022\App\VC\Tools\MSVC\14.44.35207\include\thread(93,9):
+          see reference to function template instantiation 'void std::thread::_Start<_Ty,AudioManager*,std::string&,unsigned __int64>(_Fn &&,AudioManager *&&,std::string &,unsigned __int64 &&)' being compiled
+          with
+          [
+              _Ty=void (__cdecl AudioManager::* )(std::string,int),
+              _Fn=void (__cdecl AudioManager::* )(std::string,int)
+          ]
+          D:\Visual Studio Community 2022\App\VC\Tools\MSVC\14.44.35207\include\thread(76,40):
+          see reference to function template instantiation 'unsigned int (__cdecl *std::thread::_Get_invoke<std::thread::_Start::_Tuple,0,1,2,3>(std::integer_sequence<size_t,0,1,2,3>) noexcept)(void *)' being compiled
+          D:\Visual Studio Community 2022\App\VC\Tools\MSVC\14.44.35207\include\thread(67,17):
+          see reference to function template instantiation 'unsigned int std::thread::_Invoke<std::thread::_Start::_Tuple,0,1,2,3>(void *) noexcept' being compiled
+          D:\Visual Studio Community 2022\App\VC\Tools\MSVC\14.44.35207\include\thread(60,14):
+          see reference to function template instantiation 'void std::invoke<void(__cdecl AudioManager::* )(std::string,int),AudioManager*,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,unsigned __int64>(_Callable &&,_Ty1 &&,std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&,unsigned __int64 &&) noexcept(false)' being compiled
+          with
+          [
+              _Callable=void (__cdecl AudioManager::* )(std::string,int),
+              _Ty1=AudioManager *
+          ]
+  
+  GamePersistence.cpp
+  InputManager.cpp
+  main.cpp
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Object.h(39,21): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'source/main.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\TimeManager.h(14,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'source/main.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\TimeManager.h(51,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'source/main.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\main.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\main.cpp(13,14): warning C4804: '<': unsafe use of type 'bool' in operation
+  RenderManager.cpp
+  RigidBody.cpp
+  Player.cpp
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Object.h(39,21): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'source/Player.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\TimeManager.h(14,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'source/Player.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\TimeManager.h(51,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'source/Player.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\AudioManager.h(56,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'source/Player.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Player.h(48,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'source/Player.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Player.h(48,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'source/Player.cpp')
+  
+D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\Player.cpp(48,15): warning C4305: '*=': truncation from 'double' to 'float'
+D:\Visual Studio Community 2022\App\VC\Tools\MSVC\14.44.35207\include\type_traits(1686,77): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+  (compiling source file 'source/Player.cpp')
+      D:\Visual Studio Community 2022\App\VC\Tools\MSVC\14.44.35207\include\type_traits(1686,77):
+      the template instantiation context (the oldest one first) is
+          D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\source\AudioManager.h(107,21):
+          see reference to function template instantiation 'std::thread::thread<void(__cdecl AudioManager::* )(std::string,int),AudioManager*,std::string&,unsigned __int64,0>(_Fn &&,AudioManager *&&,std::string &,unsigned __int64 &&)' being compiled
+          with
+          [
+              _Fn=void (__cdecl AudioManager::* )(std::string,int)
+          ]
+          D:\Visual Studio Community 2022\App\VC\Tools\MSVC\14.44.35207\include\thread(93,9):
+          see reference to function template instantiation 'void std::thread::_Start<_Ty,AudioManager*,std::string&,unsigned __int64>(_Fn &&,AudioManager *&&,std::string &,unsigned __int64 &&)' being compiled
+          with
+          [
+              _Ty=void (__cdecl AudioManager::* )(std::string,int),
+              _Fn=void (__cdecl AudioManager::* )(std::string,int)
+          ]
+          D:\Visual Studio Community 2022\App\VC\Tools\MSVC\14.44.35207\include\thread(76,40):
+          see reference to function template instantiation 'unsigned int (__cdecl *std::thread::_Get_invoke<std::thread::_Start::_Tuple,0,1,2,3>(std::integer_sequence<size_t,0,1,2,3>) noexcept)(void *)' being compiled
+          D:\Visual Studio Community 2022\App\VC\Tools\MSVC\14.44.35207\include\thread(67,17):
+          see reference to function template instantiation 'unsigned int std::thread::_Invoke<std::thread::_Start::_Tuple,0,1,2,3>(void *) noexcept' being compiled
+          D:\Visual Studio Community 2022\App\VC\Tools\MSVC\14.44.35207\include\thread(60,14):
+          see reference to function template instantiation 'void std::invoke<void(__cdecl AudioManager::* )(std::string,int),AudioManager*,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,unsigned __int64>(_Callable &&,_Ty1 &&,std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&,unsigned __int64 &&) noexcept(false)' being compiled
+          with
+          [
+              _Callable=void (__cdecl AudioManager::* )(std::string,int),
+              _Ty1=AudioManager *
+          ]
+  
+  ScoreManager.cpp
+  Generating Code...
+  Project1.vcxproj -> D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\binaries\x64\2D-Graphics-Engine-Game.exe
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\dependencies\SDL_3.2.22\lib\x64\SDL3.dll
+  1 File(s) copied
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\dependencies\SDL_image_3.2.4\lib\x64\SDL3_image.dll
+  1 File(s) copied
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\dependencies\SDL_mixer_2.8.1_compatible\lib\x64\SDL2_mixer.dll
+  1 File(s) copied
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\dependencies\SDL_ttf-3.2.2\lib\x64\SDL3_ttf.dll
+  1 File(s) copied
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\babyDragon.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\backToMenu.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\ballbat.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\barbaro.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\bat.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\batSpell.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\BlackRectangle.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\bolaDeFuego.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\bomba.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\boom.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\bruja.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\cloneSpell.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\cureSpell.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\darkBoll.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\duende.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\electrico.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\esbirroH.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\esbirroV.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\esqueleto.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\Fondo.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\Fondo2.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\gigante.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\globo.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\golem.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\helicoptero.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\images.jpg
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\lava.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\level1.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\level2.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\loasedio.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\loboom.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\locarlos.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\locavall.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\lochoza.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\loFondo.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\loFondo2.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\loloFondo.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\loloFondo2.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\lopeix.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\loth13.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\loth15.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\monta.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\pausa.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\pekka.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\poisonSpell.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\rageSpell.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\raiz.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\resume.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\roca.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\rompemuro.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\sanadora.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\sneezy.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\speedSpell.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\splashimage.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\TableScore.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\th16.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\valquiria.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\WallX.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\WallY.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\win.png
+  D:\DOCUMENTOS ------\Projects\Custom-2D-Graphics-Engine-Game-C-SDL3\AA3_menace_OscarDuque-CarlosBlasco-release\AA3_menace_OscarDuque-CarlosBlasco-release\\resources\yeti.png
+  61 File(s) copied
